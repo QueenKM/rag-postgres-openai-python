@@ -1,5 +1,23 @@
 # RAG on PostgreSQL
 
+## Portfolio note
+
+This repository is part of my GitHub portfolio as a retrieval-augmented generation project built around PostgreSQL, Python, FastAPI, React, and OpenAI-style chat workflows.
+
+It is based on the Azure sample template and kept here as a working engineering reference that demonstrates:
+
+- RAG architecture with PostgreSQL and `pgvector`
+- full-stack application structure across backend, frontend, infrastructure, and evaluation flows
+- practical deployment and environment setup for AI-enabled applications
+- testing, monitoring, and evaluation patterns for production-style AI systems
+
+### My focus in this repository
+
+- understanding and working with RAG pipelines end to end
+- exploring vector search plus full-text search in PostgreSQL
+- reviewing infrastructure and deployment flow for Azure-hosted AI apps
+- using the project as a reference point for AI application architecture and experimentation
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/rag-postgres-openai-python)
 [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/rag-postgres-openai-python)
 
