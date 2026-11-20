@@ -11,6 +11,10 @@ It is based on the Azure sample template and kept here as a working engineering 
 - practical deployment and environment setup for AI-enabled applications
 - testing, monitoring, and evaluation patterns for production-style AI systems
 
+[Original Azure sample](https://github.com/Azure-Samples/rag-postgres-openai-python) · [Portfolio README history](https://github.com/QueenKM/rag-postgres-openai-python/commits/main/README.md)
+
+For my standalone work on grounded answers and runtime evaluation, see [AI-102 Knowledge Assistant](https://github.com/QueenKM/ai102-knowledge-assistant).
+
 ### My focus in this repository
 
 - understanding and working with RAG pipelines end to end
